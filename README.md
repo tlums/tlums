@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I'm a recent grad ready to build cool things! ✨<br><br>I just finished my diploma and picked up a pretty broad stack along the way.<br>From crafting UIs with React and Flutter to building backends with Java and C#, plus wiring it all up with SQL and LINQ. <br>I enjoy the full picture of how an app comes together and I'm excited to bring that into my first dev role. 🤖
+Hey there! I'm a recent grad ready to build cool things! ✨<br><br>During my schooling i picked up a pretty broad stack along the way.<br>From crafting UIs with React and Flutter to building backends with Java and C#, plus wiring it all up with SQL and LINQ. <br>I enjoy the full picture of how an app comes together and I'm excited to bring that into my first dev role. 🤖
 
 
 ## 🌐 Socials:
